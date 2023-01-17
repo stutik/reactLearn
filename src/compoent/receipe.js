@@ -34,8 +34,8 @@ const Receipe = () => {
                 <input className="search-bar" type="text" value={search} onChange={updateSearchbar}/>
                 <button
                     className="search-button"
-                    type="submit">search
-                </button>
+                    type="submit">search here
+                </button> 
             </form>
                 {userName.map(userName => (
                     <UserName 
