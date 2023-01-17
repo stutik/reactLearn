@@ -1,0 +1,15 @@
+ul li{
+    list-style: none;
+    background: black;
+    color: #fff;
+    width: 300px;
+    border-radius: 5px;
+    padding: 10px 0;
+    margin-right: 21px;
+}
+ul{
+    display: flex;
+}
+.covidTrack{
+    text-align: center;
+}
